@@ -16,6 +16,6 @@ print(plane2)
 
 print(plane2[0])
 
-#cannot assign a value to an item of the tuple - immutability
+#THIS CANNOT WORK!!! Cannot assign a value to an item of the tuple - immutability
 plane2[0] = "Airbus"
 
